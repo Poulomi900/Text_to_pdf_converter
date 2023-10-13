@@ -9,10 +9,11 @@ Make sure you have Python installed. You can download it from here.
 
 Copy code
 pip install fpdf
-Usage
+
+## Usage
 Place all the text files you want to convert into the same directory as the script.
 
-Run the script by executing the following command:
+## Run the script by executing the following command:
 
 Copy code
 python main.py
