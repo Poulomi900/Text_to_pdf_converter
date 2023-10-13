@@ -15,8 +15,8 @@ Place all the text files you want to convert into the same directory as the scri
 Run the script by executing the following command:
 
 Copy code
-python text_to_pdf_generator.py
-After execution, a PDF file named text_files_to_pdf.pdf will be generated in the same directory.
+python main.py
+After execution, a PDF file named output.pdf will be generated in the same directory.
 
 ## Customization
 You can customize the script by modifying the following parameters:
